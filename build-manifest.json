@@ -1,0 +1,102 @@
+{
+  "generatedUtc": "2026-11-03T17:31:14.610Z",
+  "unity": "2022.3.62f2",
+  "totalBytes": 14821029,
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "Build/WebRelease.data.unityweb",
+      "bytes": 10052329,
+      "sha256": "e955de52d6a37e6b39f781059f01e170129b7ce2e8498de5a647d81ac9a0a4ef"
+    },
+    {
+      "file": "Build/WebRelease.framework.js.unityweb",
+      "bytes": 73600,
+      "sha256": "379844d38b0b1296c0efd383962e6fbb967d5b1c453dee91bea8bfab3a898e2e"
+    },
+    {
+      "file": "Build/WebRelease.loader.js",
+      "bytes": 44292,
+      "sha256": "d7a3ee7acf704a81c53418d29e8d58d9b34f9674e01c1bdb44bcbdf6406d7bfa"
+    },
+    {
+      "file": "Build/WebRelease.wasm.unityweb",
+      "bytes": 4624806,
+      "sha256": "31fff1ce3b64f2c11639edf4e372daf006de732242e86af192377d18c51367f1"
+    },
+    {
+      "file": "index.html",
+      "bytes": 5450,
+      "sha256": "2bf064b25deb9d68687f05aa2aee6e10a644cd6981269c58deb549814101effa"
+    },
+    {
+      "file": "Licenses/Dekko-OFL.txt",
+      "bytes": 4428,
+      "sha256": "f139d6f43d2a63a8fb3ded48b8ec747d9d59a7fbb13d077d9b96ac88580bc1ad"
+    },
+    {
+      "file": "TemplateData/favicon.ico",
+      "bytes": 2305,
+      "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+    },
+    {
+      "file": "TemplateData/fullscreen-button.png",
+      "bytes": 175,
+      "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+    },
+    {
+      "file": "TemplateData/MemoryProfiler.png",
+      "bytes": 665,
+      "sha256": "0ce87be20d0c24ab6cb73b57de2004da261cc2a641e69319c6ae3fe11fc85483"
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-dark.png",
+      "bytes": 96,
+      "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-light.png",
+      "bytes": 109,
+      "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+    },
+    {
+      "file": "TemplateData/progress-bar-full-dark.png",
+      "bytes": 74,
+      "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+    },
+    {
+      "file": "TemplateData/progress-bar-full-light.png",
+      "bytes": 84,
+      "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+    },
+    {
+      "file": "TemplateData/style.css",
+      "bytes": 1880,
+      "sha256": "ad67022501cf61e393ff93b0d0dfd247666f40d9fd09752565fe5375fe287dbe"
+    },
+    {
+      "file": "TemplateData/unity-logo-dark.png",
+      "bytes": 3042,
+      "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+    },
+    {
+      "file": "TemplateData/unity-logo-light.png",
+      "bytes": 3077,
+      "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+    },
+    {
+      "file": "TemplateData/webgl-logo.png",
+      "bytes": 2947,
+      "sha256": "b30c3af2a4538c6edf5f2411953760641dfa257f2a4cc5b88d671aa243b1f12f"
+    },
+    {
+      "file": "TemplateData/webmemd-icon.png",
+      "bytes": 1670,
+      "sha256": "c56f5494640cedda273aad38d58e6ab9da625d5b3f4d875c0ff92c6192a569c2"
+    }
+  ]
+}
